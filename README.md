@@ -1,7 +1,7 @@
 ## Oioi Mundo do Programador!!
 
 - 🔭 Hoje eu estou a procura de Estágio
-- 🌱 Estudando Banco de dados
+- 🌱 Estudando Design de Mobile📱
 - 😄 Pronouns: ela/dela
 
 <div align="left">
